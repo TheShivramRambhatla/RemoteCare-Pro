@@ -8,7 +8,7 @@ Secure Chat: Encrypted messaging allows secure communication between patients an
 
 User-friendly Interface: Intuitive design tailored for ease of use, even in areas with limited internet connectivity.
  
-Accessibility: Accessible to users with varying levels of technical expertise.
+Accessibility: Accessible to users with varying levels of technical expertise.  
 
 # 🚀 Getting Started
 Follow these steps to get started with the RemoteCare Pro app:
