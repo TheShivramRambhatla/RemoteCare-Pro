@@ -22,7 +22,7 @@ Run the App: Connect your device/emulator and run the app using flutter run.
 # 🛠️ Technologies Used
 
 Flutter: Cross-platform framework for building mobile applications.
-
+   
 Firebase: Backend services for authentication, real-time database, and cloud messaging.
 
 Agora.io: SDK for integrating audio and video calling functionality.
