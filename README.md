@@ -16,7 +16,7 @@ Follow these steps to get started with the RemoteCare Pro app:
 Clone the Repository: Clone this repository to your local machine using git clone https://github.com/TheShivramRambhatla/RemoteCare-Pro.git.
 
 Install Dependencies: Run flutter pub get to install all dependencies.
-
+  
 Run the App: Connect your device/emulator and run the app using flutter run.
 
 # 🛠️ Technologies Used
