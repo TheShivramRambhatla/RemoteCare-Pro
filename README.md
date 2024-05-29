@@ -7,7 +7,7 @@ Prescription Management: Doctors can prescribe medications directly through the 
 Secure Chat: Encrypted messaging allows secure communication between patients and doctors.
 
 User-friendly Interface: Intuitive design tailored for ease of use, even in areas with limited internet connectivity.
-
+ 
 Accessibility: Accessible to users with varying levels of technical expertise.
 
 # 🚀 Getting Started
